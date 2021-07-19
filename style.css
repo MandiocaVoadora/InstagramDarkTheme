@@ -54,7 +54,8 @@ body {
 	width: 100%;
 	padding: 1.34rem 0;
 	margin-bottom: 3px;
-	border: 1px solid black;
+	border: 1px solid #1C1C1C;
+	border-radius: 4px;
 }
 
 .group:nth-child(1) {
